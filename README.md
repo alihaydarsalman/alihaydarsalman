@@ -18,7 +18,7 @@
   <a href="https://open.spotify.com/show/7I4FEsoUKMyEbqrsgsUbQl?si=f3654fc1ced54265">
    <img src="https://github.com/alihaydarsalman/blob/main/attachment/spotify.png?raw=true"  width="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <hr></hr>
-    <p align='center'><img src="https://github.com/alihaydarsalman/blob/main/attachment/coding.gif?raw=true"  width="240"><img/></p>
+    <p align='center'><img src="[https://github.com/alihaydarsalman/blob/main/attachment/coding.gif](https://github.com/alihaydarsalman/alihaydarsalman/blob/main/attachment/coding.gif)?raw=true"  width="240"><img/></p>
     <p align='center'><strong>I work on Java technologies.</strong></p>
     <p align='center'><img src="https://github.com/alihaydarsalman/blob/main/attachment/akademikcahiller.png?raw=true"  width="120"><img/></p>
     <p align='center'><strong>I am co-founder of "akademikcahiller".</strong></p>
