@@ -27,6 +27,3 @@
    <br>If you want to see them, you can click on the instagram and spotify icons above.</br>
     </p>
 </p>
-
-
-![snake animation](https://github.com/alihaydarsalman/alihaydarsalman/blob/output/github-contribution-grid-snake2.svg)
