@@ -29,4 +29,4 @@
 </p>
 
 
-![snake gif](https://github.com/alihaydarsalman/alihaydarsalman/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/alihaydarsalman/alihaydarsalman/blob/output/github-contribution-grid-snake2.svg)
